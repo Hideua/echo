@@ -1,0 +1,17 @@
+{
+  "name": "echo-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.55.0",
+    "resend": "^6.0.1"
+  },
+  "scripts": {
+    "lint": "node -e \"console.log('No linter configured')\"",
+    "test": "node -e \"console.log('No tests yet')\""
+  }
+}

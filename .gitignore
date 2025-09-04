@@ -1,15 +1,11 @@
-# deps
 node_modules/
-# env
-.env
-.env.*
-# build artifacts
 .next/
 out/
 dist/
 .cache/
 .vercel/
-# OS/editor
+.env
+.env.*
 .DS_Store
 Thumbs.db
 *.log
